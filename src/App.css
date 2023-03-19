@@ -1,16 +1,15 @@
 .App {
   text-align: center;
+  width: 100vw;
+  height: 100vh;
+
 }
 
-.line {
-  width:50vw;
-  height:50vh;
+.pie{
+  height: 60vh;
+  width: 100vw;
+  min-width: 100px;
+  min-height: 499px;
 }
-
-.pie {
-  width:50vw;
-  height:50vh;
-}
-
 
 
